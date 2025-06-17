@@ -1,5 +1,7 @@
 # Welcome to Aclevo's GitHub
 
+![banner](https://github.com/user-attachments/assets/247ddb51-4069-4607-9c4a-f9670d989b23)
+
 **[Join Our Discord](https://discord.gg/C6QVUKnJRq)**
 
 Aclevo is a community for everyone, doing content creation and open source software on the side. We have a diverse, unique range of projects we work on from time to time.
