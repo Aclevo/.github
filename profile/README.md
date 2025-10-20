@@ -1,6 +1,8 @@
 # Welcome to Aclevo's GitHub
 
-![banner](https://github.com/user-attachments/assets/247ddb51-4069-4607-9c4a-f9670d989b23)
+![banner](https://github.com/user-attachments/assets/b572802b-cbc1-43ef-ab89-5c129523320e)
+
+
 
 **[Join Our Discord](https://discord.gg/C6QVUKnJRq)**
 
