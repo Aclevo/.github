@@ -4,7 +4,7 @@
 
 
 
-**[Join Our Discord](https://discord.gg/C6QVUKnJRq)**
+# Stay in touch with us! **[Join Our Discord](https://discord.gg/C6QVUKnJRq)** or **[Join our Matrix](https://matrix.to/#/#aclevo-general:matrix.org)**
 
 Aclevo is a community for everyone, doing content creation and open source software on the side. We have a diverse, unique range of projects we work on from time to time.
 
