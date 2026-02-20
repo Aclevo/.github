@@ -8,7 +8,7 @@
 
 Aclevo is a community for everyone, doing content creation and open source software on the side. We have a diverse, unique range of projects we work on from time to time.
 
-You can learn more about us by visiting our [website](https://aclevo.com/). Feel free to join our community at our [Discord server](https://discord.gg/C6QVUKnJRq)!
+You can learn more about us by visiting our [website](https://aclevo.com/). Feel free to join our community at one of our communication channels above.
 
 ### Projects:
 - [LBNets](https://github.com/Aclevo/LBNets): A fork of Transformers that adds logic and reasoning inside the models.
